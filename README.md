@@ -410,3 +410,6 @@ smart-city-traffic-ai/
   If `.joblib` files are not found, the Python scripts will automatically train on `smart_city_traffic_mobility.csv` on demand. You can also run `npm run train` inside `backend/`.
 - **CORS issues**:
   Ensure the backend is running and `CORS_ORIGIN=http://localhost:3000` is set in `backend/.env`.
+
+# Machine-Learning-Fundamentals
+MicroProject
